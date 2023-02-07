@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Data Science</title>
+    <style>
+    body { 
+    	-webkit-animation: colorchange 15s infinite; 
+    	animation: colorchange 15s infinite;
+	}
+    @-webkit-keyframes colorchange {
+     0%  {background: #0074C5;}
+    25%  {background: #0074C5;}
+    50%  {background: #0074C5;}
+    75%  {background: #0074C5;}
+    100% {background: #0074C5;}
+}
+@keyframes colorchange {
+     0%  {background: #0096FF;}
+    25%  {background: #5900FF;}
+    50%  {background: #00FFD8;}
+    75%  {background: #CDFF00;}
+    100% {background: #0096FF;}
+}
+
+	</style> 
+  </head>
+  <body>
+    <p> <b>Data science</b> </p>
+    <p> <b>Data science- this is the application of scientific methods when working with data to find the right solution.- </b> </p>
+    <p> Data science help AI learn.</p>
+    <p> AI this is smart watch, auto pilot, robots and other.</p>
+    <p> The world very fast develop!!!</p>
+    	<img src=”img/img3.jpg”>
+    
+    
+    
+  </body>
+</html>
